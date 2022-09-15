@@ -33,7 +33,7 @@ header div {
     border-radius: 50%;
     display: flex;
     padding: 4px;
-    transition: transform .3s;
+    transition: transform .4s;
 }
 
 header div:hover{
